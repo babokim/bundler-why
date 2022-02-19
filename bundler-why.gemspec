@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email = ['jared@jaredbeck.com']
   spec.summary = 'Explains the presence of a dependency.'
   spec.homepage = 'https://github.com/jaredbeck/bundler-why'
-  spec.required_ruby_version = Gem::Requirement.new('>= 2.6.0')
+  spec.required_ruby_version = Gem::Requirement.new('>= 2.2.0')
   spec.metadata['homepage_uri'] = spec.homepage
   spec.metadata['source_code_uri'] = spec.homepage
   spec.metadata['changelog_uri'] = spec.homepage
